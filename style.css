@@ -1,0 +1,7 @@
+body{
+  display: grid;
+  height: 100%;
+  text-align: center;
+  place-items: center;
+  background: rgb(75, 75, 75);
+}
